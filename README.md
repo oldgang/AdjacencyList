@@ -7,7 +7,9 @@ python setup.py install
 
 # Testing
 ```sh
+Main operations
 ./test.py -t AdjacencyList
+Optional operation
 ./test.py -t AdjacencyList smoothing
 ```
 

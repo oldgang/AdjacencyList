@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "structmember.h": "c",
+        "initconfig.h": "c",
+        "type_traits": "c"
+    }
+}
